@@ -1,0 +1,16 @@
+body {
+    background-color: #C34A36;
+    color: #FF9671;
+    font-family: 'Patrick Hand', cursive;
+    font-size: large;
+    padding: 0px 10px;
+}
+
+#pizza {
+    width: 200px;
+    height: 200px;
+}
+
+ul {
+    list-style: none
+}
