@@ -1,0 +1,11 @@
+<strong> - Pogrubienie tekstu
+<em> - kursywa
+<!-- Komentarz  -->
+
+<ul> - Unordered List
+<ol> - Ordered list
+<li> - List item
+
+<a> - anchor tag (przekierowanie)
+href - hyperlink refernece
+<img>
